@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WriteMe AI - Poetry Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><span class="logo">&#x1F4DD;</span> WriteMe <span class="ai">AI</span></h1>
+        </header>
+        <main>
+            <h2>HOW TO GENERATE</h2>
+            <h1 class="poetry">Poetry</h1>
+            <img src="robot.png" alt="Friendly Robot" class="robot">
+        </main>
+        <button class="next">NEXT</button>
+    </div>
+</body>
+</html>
